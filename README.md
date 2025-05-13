@@ -65,5 +65,5 @@
 
 ### ✨ Quote I Live By
 
-> “Learning never exhausts the mind.” – *Leonardo da Vinci*
+> “First, solve the problem. Then, write the code.” — *John Johnson*
 
