@@ -1,9 +1,8 @@
-<!-- Intro with animated typing effect -->
 <h1 align="center">Hi 👋, I'm Douaae El Ganbour</h1>
 <h3 align="center">🚀 2nd-year student at 1337 | 💻 Former SMI student (FSDM)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A100&lines=Passionate+about+code+%F0%9F%94%A5;Always+learning+new+techs+%F0%9F%92%BB;Building+real-world+projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A100&lines=Exploring+the+world+of+C%2B%2B+🚀;Always+learning+new+techs+💡;Building+real-world+projects+🌍" />
 </p>
 
 ---
@@ -12,15 +11,14 @@
 
 🎓 I hold a **DEUG diploma** in *Sciences Mathématiques et Informatiques* from **FSDM**.  
 🎓 I'm currently a **2nd-year student at 1337 School**, part of the 42 Network in Morocco.  
-💡 I’m passionate about system programming, algorithms, and web development.  
-📚 I’m always curious and motivated to improve myself through real-world projects.  
+💡 I’m passionate about systems and backend development, with a current focus on C++.  
+📚 I’m always curious and motivated to improve myself through real-world projects.
 
 ---
 
 ### 🔧 Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,9 +34,9 @@
 
 ### 🧭 Current Goals
 
-- 🌱 Deepen my understanding of system-level programming (C, Assembly)
-- 📗 Build real-world full-stack projects using C++, PHP, MySQL
-- 🛠️ Contribute to open-source and collaborate with other 42 Network students
+- 🌱 Deepen my understanding of C++ and object-oriented programming  
+- 🛠️ Build real-world backend projects using C++, PHP, and MySQL  
+- 🤝 Contribute to open-source and collaborate with other 42 Network students  
 - 📘 Start learning Python and explore scripting + automation
 
 ---
@@ -68,6 +66,4 @@
 ### ✨ Quote I Live By
 
 > “Learning never exhausts the mind.” – *Leonardo da Vinci*
-
----
 
